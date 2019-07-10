@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+EXTR_ResBldg.txt
+Extr_RPSale.txt
 Residential Building_tab.zip
 Real Property Sales_tab.zip
 __pycache__/
